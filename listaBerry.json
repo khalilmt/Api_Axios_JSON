@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "cheri",
+    "growthTime": 3,
+    "size": 20,
+    "naturalGiftType": "fire",
+    "firmness": "soft",
+    "item": "cheri-berry",
+    "flavors": [
+      {
+        "potency": 10,
+        "flavor_name": "spicy"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "chesto",
+    "growthTime": 3,
+    "size": 80,
+    "naturalGiftType": "water",
+    "firmness": "super-hard",
+    "item": "chesto-berry",
+    "flavors": [
+      {
+        "potency": 10,
+        "flavor_name": "dry"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "pecha",
+    "growthTime": 3,
+    "size": 40,
+    "naturalGiftType": "electric",
+    "firmness": "very-soft",
+    "item": "pecha-berry",
+    "flavors": [
+      {
+        "potency": 10,
+        "flavor_name": "sweet"
+      }
+    ]
+  }
+]
